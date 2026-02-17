@@ -1,4 +1,4 @@
-# 🎯 Hangman Game – Modular Python Implementation
+   # 🎯 Hangman Game – Modular Python Implementation
 
 ## 📌 Project Overview
 
@@ -159,7 +159,9 @@ First-Year B.Tech (Artificial Intelligence) Student
 SRM Institute of Science and Technology, Ramapuram Campus
 
 📍 Chennai, India
+
 ✉️ Email: [rishikcr72401@gmail.com](mailto:rishikcr72401@gmail.com)
+
 🔗 LinkedIn: [https://www.linkedin.com/in/abnsrishik](https://www.linkedin.com/in/abnsrishik)
 
 ---
